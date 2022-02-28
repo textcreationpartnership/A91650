@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A renuntiation and declaration of the ministers of Congregational churches and publick preachers of the same judgment, living in, and about the city of London: against the late horrid insurrection and rebellion acted in the said city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91650</idno>
+            <idno type="STC">Wing R1042</idno>
+            <idno type="STC">Thomason E1055_18</idno>
+            <idno type="STC">ESTC R203388</idno>
+            <idno type="EEBO-CITATION">99863355</idno>
+            <idno type="PROQUEST">99863355</idno>
+            <idno type="VID">169001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91650)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169001)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1055[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A renuntiation and declaration of the ministers of Congregational churches and publick preachers of the same judgment, living in, and about the city of London: against the late horrid insurrection and rebellion acted in the said city.</title>
+                  <author>Caryl, Joseph, 1602-1673.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Peter Cole and Edward Cole, printers and book-sellers, at the sign of the Printing-press in Cornhil, neer the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Joseph Caryll [and 24 others].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  England --  Doctrines --  Early works to 1800.</term>
+               <term>Treason --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169001:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <p>A RENUNTIATION AND Declaration OF THE MINISTERS OF Congregational Churches AND PUBLICK PREACHERS Of the ſame JUDGMENT, Living in, and about The CITY of <hi>LONDON:</hi> Againſt the late Horrid INSURRECTION <hi>and</hi> REBELLION <hi>Acted in the ſaid</hi> CITY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Peter Cole</hi> and <hi>Edward Cole,</hi> Printers and Book-ſellers, at the Sign of the Printing-preſs in Cornhil, neer the Royal Exchange. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:169001:2"/>
+            <!-- PDF PAGE 99 -->
+            <pb n="1" facs="tcp:169001:2"/>
+            <!-- PDF PAGE 99 -->
+            <head>
+               <hi>A</hi> REN<g ref="char:V">Ʋ</g>NTIATION <hi>and</hi> DECLARATION <hi>of the</hi> Miniſters <hi>of</hi> Congregational Churches <hi>and</hi> Publick Preachers <hi>of the ſame Judgment, livingin, and about</hi> the City of LONDON; <hi>againſt the late Horrid</hi> Inſurrection and Rebellion <hi>Acted in the ſaid City.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath been of late, a <hi>Rebellion,</hi> ſo Impious, and Prodigiouſly da<g ref="char:EOLhyphen"/>ring, Acted upon ſo open and great a Stage, as this <hi>Famous</hi> and <hi>Populous City;</hi> and <hi>before the Sun</hi> of Goſpel light ſhining round about us: as that the Noiſe thereof cannot but make its own report, not only throughout all <hi>Chriſtendom,</hi> but even to the <hi>Ends of the Earth;</hi> and fill the moſt Bar<g ref="char:EOLhyphen"/>barous and Inhumane of Nations that ſhall hear of it, with aſtoniſhment to the higheſt <hi>Scandal</hi> of <hi>Chriſtian Religion;</hi> Yea, and let down
+<pb n="2" facs="tcp:169001:3"/>
+               <!-- PDF PAGE 100 -->the hateful Memory thereof to all Ages to come; As that which perhaps cannot be Pa<g ref="char:EOLhyphen"/>ralelled, except by thoſe at <hi>Munſter</hi> of the ſame principle in the former Age.</p>
+            <p>And this <hi>Grand iniquity</hi> having, through the Artifice of <hi>Satan,</hi> been falſely and moſt uncha<g ref="char:EOLhyphen"/>ritably charged on thoſe (at leaſt as the fa<g ref="char:EOLhyphen"/>vorers of it) whom ſome will needs ſtile the <hi>Independent Party.</hi>
+            </p>
+            <p>We, therefore hold our ſelves Neceſſita<g ref="char:EOLhyphen"/>ted to make this true, and ſincere <hi>Renuntiation</hi> of, and <hi>Proteſtation</hi> againſt ſo horrid a <hi>Fact,</hi> and <hi>Principle</hi> they were Acted by, as both highly <hi>Derogatory to Chriſt</hi> and moſt <hi>Pernitious to his Saints.</hi>
+            </p>
+            <p>
+               <hi>To Chriſt,</hi>
+            </p>
+            <p>In that <hi>his Kingdom,</hi> the <hi>Coming</hi> of which is by <hi>Him</hi> ſo cloſely annexed to <hi>the Hallowing</hi> of <hi>Gods Name,</hi> is on the contrary perverted to the greateſt <hi>Diſhonor</hi> to him, and the <hi>Prophaning of his Name;</hi> and a <hi>perfect Con<g ref="char:EOLhyphen"/>tradiction</hi> to all thoſe <hi>Principles,</hi> which he left behind him. And <hi>that</hi> divine and Hea<g ref="char:EOLhyphen"/>venly <hi>ſeed (the Image of Chriſt)</hi> laid by God in the Souls of all his Children, the eminent
+<pb n="3" facs="tcp:169001:3"/>
+               <!-- PDF PAGE 100 -->
+               <hi>fruits</hi> whereof are <hi>lowlineſs of Heart, Self<g ref="char:EOLhyphen"/>denial, Peaceableneſs,</hi> with the like, is hereby turned into a <hi>Root</hi> of ſuch <hi>Bitterneſs,</hi> and unto ſo ſwollen a <hi>Self-Aſſuming,</hi> As under the Title <hi>of Saints,</hi> as ſuch; and in the <hi>Name of Jeſus Chriſt, to take to themſelves,</hi> the <hi>Titles of all the Kingdoms of the World,</hi> and in the Face of the full exerciſe of the Dominion thereof, to <hi>Pronounce</hi> the Titles of all Earth<g ref="char:EOLhyphen"/>ly Potentates, actually, and abſolutely <hi>void;</hi> Whom from the Apoſtles times, and at this day, he hath continued, as his own Ordinance; and unto whom, he hath commanded <hi>Saints,</hi> as <hi>Saints,</hi> and by ſo much the more <hi>becauſe Saints,</hi> for <hi>Conſcience ſake,</hi> to be <hi>Subject.</hi> And who, we are ſure, according to the Ordination of God ſhall continue TO the Deſtruction of the true <hi>Babylon;</hi>
+               <note place="margin">Rev. <hi>17.</hi>
+               </note> And yet to make all the <hi>Reformed Churches</hi> to be <hi>Spiritual Babilon,</hi> and all <hi>Governments of the World</hi> to be <hi>Civil Babilon,</hi> and all alike from hence forth to be de<g ref="char:EOLhyphen"/>ſtroy'd.</p>
+            <p>And to turn <hi>Meetings</hi> for <hi>Religious Worſhip</hi> (which ought only to <hi>Aſſemble in the Name of Chriſt,</hi> (and as to ſuch ends only have
+<pb n="4" facs="tcp:169001:4"/>
+               <!-- PDF PAGE 101 -->the promiſe of his preſence) into <hi>Conſul<g ref="char:EOLhyphen"/>tations</hi> and <hi>Deſignments</hi> for the diuſtrbance and deſtruction of thoſe States which <hi>yet by Chriſt do Reign;</hi> and under whoſe Indul<g ref="char:EOLhyphen"/>gence and Protection they live. And then to render <hi>Faith (by which Believers overcome the World)</hi> and abſolute <hi>Folly</hi> (which this hath done) yea and a daring Madneſs, <hi>Ma<g ref="char:EOLhyphen"/>nifeſt to all Men.</hi> And,</p>
+            <p>For Vain and Sorry Man, or any company of the Sons of Men, <hi>To riſe up</hi> and <hi>Deſign<g ref="char:EOLhyphen"/>edly to ſay</hi> within themſelves, we <hi>will go to ſuch and ſuch a City,</hi> and from <hi>ſuch or ſuch a time</hi> erect a new Throne for Jeſus Chriſt <hi>the Son of God,</hi> from thence to Reign over all the world; And then to think to invite him from Heaven, and <hi>in the Clouds to bring him to the Ancient of daies,</hi>
+               <note place="margin">Dan. <hi>7.</hi>
+               </note> and ſo to give him <hi>poſſeſſion of that Kingdom.</hi> All which are the ſole ſoveraign Preroga<g ref="char:EOLhyphen"/>tives of <hi>God the Father to give; (Thine is the Kingdom)</hi> and of <hi>Chriſt</hi> the <hi>Son,</hi>
+               <note place="margin">Rev. <hi>11.</hi>
+               </note> 
+               <hi>to take to himſelf that great Power and Reign.</hi> And again to under take that, which can be no other then the <hi>Immediate</hi> Act and Work of
+<pb n="5" facs="tcp:169001:4"/>
+               <!-- PDF PAGE 101 -->Chriſt himſelf, to <hi>Create new Heavens and new Earth,</hi> and to fill the world, <hi>with Righ<g ref="char:EOLhyphen"/>teouſneſs. (which I create ſaith the Lord)</hi> And muſt needs be judged a far greater work then the firſt creating of the old World, and never to be ſet up by outward Vio<g ref="char:EOLhyphen"/>lence.</p>
+            <p>To make all this <hi>a Cauſe, And the cauſe of Reli<g ref="char:EOLhyphen"/>gion,</hi> by the power of force and Blood, thus to obtain a worldly Dominion and Power over all means Eſtates and Lives: What <hi>an high Pre<g ref="char:EOLhyphen"/>ſumption</hi> is all this, and <hi>Derogation</hi> to the Glory of <hi>Chriſt?</hi>
+            </p>
+            <p>Nor can there be any principle more Per<g ref="char:EOLhyphen"/>nitious to the <hi>Saints</hi> themſelves diſperſed throughout the <hi>Nations of the World.</hi>
+            </p>
+            <p>Seeing the Wrath of Princes, and Governors in all Dominions might, thereby, be en<g ref="char:EOLhyphen"/>flamed, and Their Sword whetted againſt them. And it <hi>ingageth</hi> alſo theſe men them<g ref="char:EOLhyphen"/>ſelves, or any others, with whom this wic<g ref="char:EOLhyphen"/>ked perſwaſion ſhal prevail, to <hi>Deſtroy</hi> the <hi>whol Body of Saints,</hi> and others Promiſcu<g ref="char:EOLhyphen"/>ouſly, as enemies to the Kingdom of Chriſt, if not of this Opinion. As if that
+<pb n="6" facs="tcp:169001:5"/>
+               <!-- PDF PAGE 102 -->
+               <hi>Jeſus Chriſt who is Lord over all, and Rich unto all,</hi> having ſo long <hi>expected</hi> the accompliſh<g ref="char:EOLhyphen"/>ment of His Kingdom, were ſo impati<g ref="char:EOLhyphen"/>ently deſirous of a Kingdom of Saints to be ſet up in the World, that to advance it, though but in a few, he regarded not the thouſands of thouſands of the People of God that are in the World, and who in their Conſciences ſtand ingaged to oppoſe it.</p>
+            <p>Neither is this Proteſtation <hi>now made</hi> againſt ſuch principles and proceedings, other, in the <hi>Tendency</hi> and <hi>Drift</hi> thereof, then what ſome years ſince, ſuch of us, as had opportunity thereunto, did, by letters, declare unto divers in this Kingdom, whoſe principles then were comparatively modeſt; for which we have ever ſince been openly reproached perſonally by Name in writings and otherwiſe: as is well known. And again, in a <hi>Meeting,</hi> at the <hi>Savoy,</hi> above two years ſince, of Perſons ſent from <hi>one hundred and twenty Churches</hi> of our way, in the <hi>Confeſſion of Faith,</hi> there, by them agreed upon, It was, as concerning <hi>Magiſtrates</hi> in the general, Unanimouſly declared as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <pb n="7" facs="tcp:169001:5"/>
+                        <!-- PDF PAGE 102 -->
+                        <head>
+                           <hi>Chap. 24.</hi> Of the Civil Magiſtrate.</head>
+                        <p n="1">
+                           <hi>I</hi> GOD the ſupream Lord and King of all the World, hath ordained civil Magiſtrates to be under him, over the people for his own glory and the publick good: And to this end hath armed them with the power of the Sword, for the Defence and Incouragement of them that do good; and for the puniſhment of evil-doers.</p>
+                        <p n="2">
+                           <hi>II</hi> It is lawful for Chriſtians to accept and exe<g ref="char:EOLhyphen"/>cute the Office of a Magiſtrate, when called there<g ref="char:EOLhyphen"/>unto: in the management whereof, as they ought eſpecially to maintain Juſtice and Peace, according to the wholſome Laws of each Common-wealth; ſo, for that end they may lawfully, now, under the New Teſtament wage war upon juſt and neceſſary occa<g ref="char:EOLhyphen"/>ſion.</p>
+                        <p n="3">
+                           <hi>III.</hi> Although the Magiſtrate is bound to in<g ref="char:EOLhyphen"/>courage, promote, and protect the profeſſors and profeſſion of the Goſpel, and to manage and order civil adminiſtrations in a due ſubſerviency to the intereſt of Chriſt in the world, and to that end, to take care that men of corrupt minds and converſations do not licentiouſly publiſh and divulge Blaſphemy and Errors, in their own Nature, ſubverting the Faith, and inevitably deſtroying the ſouls of them
+<pb n="8" facs="tcp:169001:6"/>
+                           <!-- PDF PAGE 103 -->that receive them; Yet in ſuch differences about the Doctrines of the Goſpel, or waies of the worſhip of God is may befal men exerciſing a good conſcience, mani<g ref="char:EOLhyphen"/>feſting it in their converſation, and holding the foun<g ref="char:EOLhyphen"/>dation, not diſturbing others in their waies, or wor<g ref="char:EOLhyphen"/>ſhip, that differ from them; there is no warrant for the Magiſtrate under the Goſpel to abridge them of their liberty.</p>
+                        <p n="4">
+                           <hi>IV.</hi> It is the duty of people to pray for Magi<g ref="char:EOLhyphen"/>ſtrates, to honor their perſons, to pay them Tribute and other dues, to obey their lawful commands, and to be ſubject to their Authority for conſcience ſake. Infidelity, or difference in Religion, doth not make void the Magiſtrates juſt and legal Authority, nor free the people from their obedience to him: from which Eccleſiaſtical perſons are not exempted, much leſs hath the Pope any power, or juriſdiction over them in their dominions, or over any of their people, and leaſt of all, to deprive them of their dominions, or lives, if he ſhall judge them to be Haereticks, or upon any other pretence whatſoever.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>And accordingly we ceaſe not to pour out hearty Prayers for all ſorts of</hi> Bleſſings ſpiritual and temporal <hi>upon the</hi> Perſon <hi>and</hi> Government <hi>of</hi> his Majeſty <hi>both in our</hi> Congregations, Families
+<pb n="9" facs="tcp:169001:6"/>
+               <!-- PDF PAGE 103 -->
+               <hi>and</hi> Retirements, <hi>and through Gods Grace, according to our Duties ſhall continue ſo to do, our ſelves, and to perſwade others there<g ref="char:EOLhyphen"/>unto; and to</hi> live quietly and peaceably in all Godli<g ref="char:EOLhyphen"/>neſs and Honeſty</p>
+            <p>
+               <hi>To conclude all, We have a far greater and ſadder occaſion to utter of theſe late attempts, and</hi> Reſolutions, <hi>what</hi> Jacob <hi>did of that fatal</hi> Execution, <hi>by</hi> Simeon <hi>and</hi> Levi, <hi>upon</hi> a whol City <hi>(the order of the words being only inverted.)</hi>
+               <note place="margin">Gen. <hi>49.</hi>
+               </note> The Inſtruments of cruelty are in their Habitations (<hi>which</hi> ver. <hi>6. is termed</hi> Aſſembly) Curſed be their Anger, for it was feirce, and their Wrath, for it was cruel. <hi>And we each one ſay,</hi> O my Soul come not thou into their ſecret, unto their Aſſembly, mine Honor, be not thou united; but let God divide them in <hi>Jacob</hi> and ſcatter them in <hi>Iſrael.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Joſeph Caryll.</item>
+                     <item>George Griffiths.</item>
+                     <item>Richard Kentiſh.</item>
+                     <item>Robert Bragg.</item>
+                     <item>Ralph Venning.</item>
+                     <item>John Oxenbridg.</item>
+                     <item>Philip Nye.</item>
+                     <item>John Roe.</item>
+                     <item>Thomas VVeld.</item>
+                     <item>Samuel Slater.</item>
+                     <item>George Cockayne.</item>
+                     <item>Thomas Goodwin.</item>
+                     <item>Thomas Brooks.</item>
+                     <item>Carn. Helm.</item>
+                     <item>John Hodges.</item>
+                     <item>John Bachiler.</item>
+                     <item>Seth VVood.</item>
+                     <item>VViliam Greenhill.</item>
+                     <item>Mathew Barker.</item>
+                     <item>Thomas Malory.</item>
+                     <item>John Loder.</item>
+                     <item>John Yates.</item>
+                     <item>Th. Owen.</item>
+                     <item>Nathaniel Mather.</item>
+                     <item>VVilliam Stoughton.</item>
+                  </list>
+               </signed>
+               <date>
+                  <hi>January, 1660.</hi>
+               </date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
